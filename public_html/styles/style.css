@@ -19,15 +19,15 @@
   display: inline-block;
   width: 200px;
   height: 200px;
-  background: #ddddff;
+  background: #ccccff;
   margin: 20px;
-  border: 20px solid #bbbbdd;
+  border: 20px solid #aaaadd;
   cursor: pointer;
 }
 .shape:hover {
   /* vot */
-  background: #ffdddd;
-  border-color: #bbbbbb;
+  background: #ffcccc;
+  border-color: #b3b3b3;
 }
 #shape1 {
   -webkit-border-radius: 9999px;
