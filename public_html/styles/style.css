@@ -29,6 +29,9 @@
   background: #ffcccc;
   border-color: #b3b3b3;
 }
+.myClass {
+  background: #ffcccc;
+}
 #shape1 {
   -webkit-border-radius: 9999px;
   -moz-border-radius: 9999px;
